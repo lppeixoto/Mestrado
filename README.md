@@ -1,2 +1,3 @@
 # Mestrado
-Códigos para o mestrado.
+Simulação de motores 
+Métodos Númericos
